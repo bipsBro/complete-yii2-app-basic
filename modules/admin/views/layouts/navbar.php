@@ -1,6 +1,5 @@
 <?php
 use yii\helpers\Html;
-
 ?>
 
 <nav class="navbar navbar-transparent navbar-absolute">

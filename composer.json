@@ -21,7 +21,9 @@
         "dektrium/yii2-user": "^0.9.0@dev",
         "dmstr/yii2-adminlte-asset": "2.1",
         "macgyer/yii2-materializecss": "*",
-        "fxp/composer-asset-plugin": "~1.2"
+        "fxp/composer-asset-plugin": "~1.2",
+        "ramosisw/yii2-material-dashboard": "dev-master",
+        "dektrium/yii2-rbac": "1.0.0-alpha@dev"
     },
     "require-dev": {
         "yiisoft/yii2-debug": "~2.0.0",

@@ -10,13 +10,12 @@ nbproject
 .settings
 
 # sublime text project files
-.phpintel/
+.phpintel
 
 # windows thumbnail cache
 Thumbs.db
 
 #config folder
-/config
 
 # composer vendor dir
 /vendor
